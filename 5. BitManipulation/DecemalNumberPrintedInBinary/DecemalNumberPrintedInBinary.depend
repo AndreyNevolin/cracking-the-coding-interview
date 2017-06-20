@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392123791 source:c:\users\Неволин\desktop\cracking code\5. bitmanipulation\decemalnumberprintedinbinary\main.cpp
+	<iostream>
+	<stdlib.h>
+	<climits>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391164322 source:c:\users\Неволин\desktop\microsoft\remove dup chars from string (using simple vars)\main.cpp
+	<iostream>
+	<string>
+

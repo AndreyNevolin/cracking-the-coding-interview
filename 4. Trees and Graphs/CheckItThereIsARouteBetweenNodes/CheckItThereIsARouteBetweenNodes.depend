@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392046251 source:c:\users\Неволин\desktop\cracking code\4. trees and graphs\checkitthereisaroutebetweennodes\main.cpp
+	<iostream>
+	<list>
+	<string.h>
+

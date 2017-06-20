@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390999186 source:c:\users\Неволин\desktop\cracking code\arrays and strings\replacerowandcolumnbyzero\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+
