@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1392894477 source:c:\users\Неволин\desktop\cracking code\7. sorting and searching\findvalueinmatrixwithsortedrowsandcolumns\main.cpp
-	<iostream>
-	<vector>
-	<iomanip>
-	<cassert>
-

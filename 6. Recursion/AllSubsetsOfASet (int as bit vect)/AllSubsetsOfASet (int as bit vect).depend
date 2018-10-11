@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1392661613 source:c:\users\Неволин\desktop\cracking code\6. recursion\allsubsetsofaset (int as bit vect)\main.cpp
-	<iostream>
-	<iomanip>
-	<stdlib.h>
-	<vector>
-
